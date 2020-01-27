@@ -1,0 +1,5 @@
+E:\C#\RandomNumberGenerator\DataGenerator\bin\Debug\DataGenerator.dll
+E:\C#\RandomNumberGenerator\DataGenerator\bin\Debug\DataGenerator.pdb
+E:\C#\RandomNumberGenerator\DataGenerator\obj\Debug\DataGenerator.dll
+E:\C#\RandomNumberGenerator\DataGenerator\obj\Debug\DataGenerator.pdb
+E:\C#\RandomNumberGenerator\DataGenerator\obj\Debug\DataGenerator.csprojAssemblyReference.cache

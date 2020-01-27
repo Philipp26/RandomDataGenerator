@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27703.2035
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomNumberGenerator", "RandomNumberGenerator\RandomNumberGenerator.csproj", "{A21C9397-2D27-4E0F-B4C9-47D5F22D8E19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataGenerator", "DataGenerator\DataGenerator.csproj", "{7DD13892-B6F6-473C-AD69-8E6E552A4634}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumbericDataGenerator.Test", "NumbericDataGenerator.Test\NumbericDataGenerator.Test.csproj", "{8DDB85B8-9520-43F9-B1A3-4CE960C01AE1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{A21C9397-2D27-4E0F-B4C9-47D5F22D8E19}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A21C9397-2D27-4E0F-B4C9-47D5F22D8E19}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A21C9397-2D27-4E0F-B4C9-47D5F22D8E19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DD13892-B6F6-473C-AD69-8E6E552A4634}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DD13892-B6F6-473C-AD69-8E6E552A4634}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DD13892-B6F6-473C-AD69-8E6E552A4634}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DD13892-B6F6-473C-AD69-8E6E552A4634}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DDB85B8-9520-43F9-B1A3-4CE960C01AE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DDB85B8-9520-43F9-B1A3-4CE960C01AE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DDB85B8-9520-43F9-B1A3-4CE960C01AE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DDB85B8-9520-43F9-B1A3-4CE960C01AE1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

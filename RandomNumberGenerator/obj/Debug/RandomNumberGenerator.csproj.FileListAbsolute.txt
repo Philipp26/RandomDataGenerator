@@ -5,7 +5,12 @@ E:\C#\RandomNumberGenerator\RandomNumberGenerator\bin\Debug\FluentCommandLinePar
 E:\C#\RandomNumberGenerator\RandomNumberGenerator\bin\Debug\FluentCommandLineParser.pdb
 E:\C#\RandomNumberGenerator\RandomNumberGenerator\bin\Debug\FluentCommandLineParser.xml
 E:\C#\RandomNumberGenerator\RandomNumberGenerator\obj\Debug\RandomNumberGenerator.csprojAssemblyReference.cache
-E:\C#\RandomNumberGenerator\RandomNumberGenerator\obj\Debug\RandomNumberGenerator.csproj.CoreCompileInputs.cache
 E:\C#\RandomNumberGenerator\RandomNumberGenerator\obj\Debug\RandomNumberGenerator.csproj.CopyComplete
 E:\C#\RandomNumberGenerator\RandomNumberGenerator\obj\Debug\RandomNumberGenerator.exe
 E:\C#\RandomNumberGenerator\RandomNumberGenerator\obj\Debug\RandomNumberGenerator.pdb
+E:\C#\RandomNumberGenerator\RandomNumberGenerator\bin\Debug\NUnit3.TestAdapter.dll
+E:\C#\RandomNumberGenerator\RandomNumberGenerator\bin\Debug\NUnit3.TestAdapter.pdb
+E:\C#\RandomNumberGenerator\RandomNumberGenerator\bin\Debug\nunit.engine.dll
+E:\C#\RandomNumberGenerator\RandomNumberGenerator\bin\Debug\nunit.engine.api.dll
+E:\C#\RandomNumberGenerator\RandomNumberGenerator\bin\Debug\DataGenerator.dll
+E:\C#\RandomNumberGenerator\RandomNumberGenerator\bin\Debug\DataGenerator.pdb
